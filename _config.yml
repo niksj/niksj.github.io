@@ -1,33 +1,33 @@
-name: Rishabh Misra
+name: Nikita Jibhkate
 
-description: Sr. ML Engineer
+description: Senior Software Engineer
 
-avatar: https://avatars0.githubusercontent.com/u/7669681?v=4&s=400&u=f84f21788154425e2a11a483a86f3753dbbb51cf
+avatar: https://avatars.githubusercontent.com/u/17112467?v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: r1misra@eng.ucsd.edu
+  email: niksj1996@gmail.com
   flickr:
-  github: rishabhmisra
+  github: niksj
   instagram:
-  linkedin: misrarishabh
+  linkedin: nikita-jibhkate 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: rishabh_misra_
+  twitter: niksj20
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: VonikilyOfficial/featured
   googleplus: # anything in your profile username that comes after plus.google.com/
-  scholar: citations?user=EN3OcMsAAAAJ
-  medium: rishabh_misra_
+  scholar: #google scholar link
+  medium: #medium link
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: rishabhmisra
+disqus: niksj
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-63791734-1
+google_analytics: #TBD
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -66,7 +66,7 @@ sass:
 
 theme: jekyll-theme-cayman
 
-repository: rishabhmisra/rishabhmisra.github.io
+repository: niksj/niksj.github.io
 
 # Use the following plug-ins
 gems:
