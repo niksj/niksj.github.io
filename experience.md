@@ -56,6 +56,10 @@ permalink: /experience/
 
 <!-- </details> -->
 
+<br>
+<br>
+<br>
+
 ## Mentorship Experience<a name="mentorship"></a>
 
 <!-- <details> -->
@@ -64,7 +68,6 @@ permalink: /experience/
 * 2019: Mentored two students to port Systers org’s android applications, PowerUp and Malaria-app to MVP design pattern.
 * 2017: Mentored a student to implement search contexts in Sigmah using Apache Solr.
 
-<br>
 <br>
 
 **Rails Girls Summer of Code 2018**
@@ -77,12 +80,10 @@ permalink: /experience/
 *	Mentored hackathon participants to provide open source solutions.
 
 <br>
-<br>
 
 **Google Code-In 2017**
 *	Mentored teenage students and created beginner tasks for the PowerUp android application.
 
-<br>
 <br>
 
 **Learn IT, Girl**
@@ -90,18 +91,39 @@ permalink: /experience/
 *	2017 - Mentored a student to learn Python and code a web application.
 
 <br>
-<br>
 
 **Google Summer of Code 2017**
 *	Mentored a student to implement search contexts using Apache Solr.
+
+<br>
 <br>
 <br>
 
 ## Volunteering Experience<a name="volunteering"></a>
+<br>
+
 **Grace Hopper Conference - Review Committee Member for last 5+ years for tracks – Open Source, Scholarship and Software Engineering**
+
+<br>
+
 **Coursera Open Source Community member**
+
+<br>
+
 **IEEE Women in Tech - CybrosX member**
+
+<br>
+
 **FOSSASIA Open Source - Developer Member**
+
+<br>
+
 **Sigmah Organisation – Benevolent**
+
+<br>
+
 **Joined the Horticulture activity at Kew Gardens under the Bloomberg Philanthropy initiative to combat climate change**
+
+<br>
+
 
